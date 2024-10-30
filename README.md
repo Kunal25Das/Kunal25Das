@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Kunal Das and I'm a aspiring developer, from WB, India</h2>
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kunal25Das&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -59,13 +59,10 @@
     <img src="https://img.shields.io/static/v1?message=%C2%A0&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
 </div>
-###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Kunal25Das/Kunal25Das/output/snake.svg" alt="Snake animation" />
-
-###
 
 ###
 <!---
