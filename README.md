@@ -64,7 +64,9 @@
 
 <br clear="both">
 
+<!---
 <img src="https://raw.githubusercontent.com/Kunal25Das/Kunal25Das/output/snake.svg" alt="Snake animation" />
+---!>
 
 ###
 <!---
